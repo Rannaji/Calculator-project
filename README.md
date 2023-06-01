@@ -1,3 +1,3 @@
 # Calculator-project
 
-This Projects contain a Python file which is my Calculator Project
+This projects contain a python file which is my calculator project
